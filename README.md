@@ -22,3 +22,8 @@ C++ & CUDA Developer with a passion for high-performance computing and AI in gam
 *My 3D castle complex reconstruction project (LiDAR data & Blender).*
 
 ---
+
+
+## 📫 Connect with me:
+📧 **Email:** [timotej.kuzma2015@gmail.com](mailto:timotej.kuzma2015@gmail.com)
+📺 **YouTube:** [Timotej Kuzma](https://www.youtube.com/@timotejkuzma8874)
