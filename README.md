@@ -17,7 +17,7 @@ C++ & CUDA Developer with a passion for high-performance computing and AI in gam
 ---
 
 ### 🏰 Creative Showcase: Jeterbenk 3D Reconstruction
-[![Jeterbenk 3D Reconstruction](https://github.com/timotej2015/timotej2015/blob/main/CompositingTest3.png)](https://www.youtube.com/watch?v=OelK8SlSK8E)
+[![Jeterbenk 3D Reconstruction](https://github.com/timotej2015/timotej2015/blob/main/CompositingTest4.png)](https://www.youtube.com/watch?v=OelK8SlSK8E)
 
 *My 3D castle complex reconstruction project (LiDAR data & Blender).*
 
