@@ -1,16 +1,24 @@
-## Hi there 👋
+# Timotej Kuzma 👋
 
-<!--
-**timotej2015/timotej2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ & CUDA Developer with a passion for high-performance computing and AI in gaming.
 
-Here are some ideas to get you started:
+- 🚀 **Currently focusing on:** Low-level AI optimizations (GOAP) and GPU acceleration (CUDA).
+- 🎓 **Education:** Bachelor’s Degree in Computer Science (Thesis on Intelligent AI Agents in UE5).
+- 🛠️ **Tools:** C++, Unreal Engine, Blender, Python, CUDA, CloudCompare.
+- 🏰 **Creative Project:** I have reconstructed a medieval castle complex (Jeterbenk) using LiDAR data and archaeological research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 Featured Project: GOAP AI System (UE5 & C++)
+[![GOAP AI System Demo](https://raw.githubusercontent.com/timotej2015/GOAP_UnrealEngine/main/screenshots/Posnetek%20zaslona%202024-06-11%20211309.png)](https://www.youtube.com/watch?v=D5K0g2sD15g)
+
+*Click the image above to watch my GOAP system in action.*
+
+---
+
+### 🏰 Creative Showcase: Jeterbenk 3D Reconstruction
+[![Jeterbenk 3D Reconstruction](https://img.youtube.com/vi/OelK8SlSK8E/0.jpg)](https://www.youtube.com/watch?v=OelK8SlSK8E)
+
+*My 3D castle complex reconstruction project (LiDAR data & Blender).*
+
+---
