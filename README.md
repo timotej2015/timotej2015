@@ -26,4 +26,4 @@ C++ & CUDA Developer with a passion for high-performance computing and AI in gam
 
 ## 📫 Connect with me:
 📧 **Email:** [timotej.kuzma2015@gmail.com](mailto:timotej.kuzma2015@gmail.com)
-📺 **YouTube:** [Timotej Kuzma](https://www.youtube.com/@timotejkuzma8874)
+📺 **YouTube:** [Timotej Kuzma](https://www.youtube.com/@timotejkuzma5838)
