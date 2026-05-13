@@ -24,7 +24,7 @@ A Goal-Oriented Action Planning system that evolved from a UE5 thesis project (2
 
 ### 🏰 Jeterbenk — Medieval Castle Reconstruction
 
-3D reconstruction of a 13th century fortified complex in Slovenia, based on LiDAR data (GURS) and archaeological research. No code involved — just CloudCompare, Blender, and a lot of reading about medieval Carinthian feudal politics.
+3D reconstruction of a 13th century fortified complex in Slovenia, based on LiDAR data (GURS) and archaeological research. No code involved — just CloudCompare, Blender, and a lot of reading.
 
 [![Jeterbenk 3D Reconstruction](https://github.com/timotej2015/timotej2015/blob/main/CompositingTest4.png)](https://www.youtube.com/watch?v=OelK8SlSK8E)
 
