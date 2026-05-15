@@ -8,7 +8,7 @@ C++ & CUDA developer. I write low-level code for things that need to be fast —
 
 ---
 
-### ⚡ GF(2) Binary Matrix Diameter Search — CUDA
+### ⚡ GF(2) Binary Matrix Space Diameter Search — CUDA
 
 Custom CUDA kernels for searching the diameter of a 9×9 matrix space over GF(2), built to support an academic research paper. Standard libraries don't support binary arithmetic, so all matrix multiplication runs on XOR/AND logic written from scratch. Three filtration phases reduce a search space of 2³⁶ candidates to a tractable set — block matmul filter, inverse consistency check, and a binary tree membership lookup running entirely on the GPU to avoid CPU roundtrips. Pipeline glued together in Python via CuPy's `RawModule`.
 
