@@ -30,6 +30,9 @@ A Goal-Oriented Action Planning system that evolved from a UE5 thesis project (2
 
 ---
 
-## 📫 Contact
-📧 [timotej.kuzma2015@gmail.com](mailto:timotej.kuzma2015@gmail.com)
-📺 [YouTube — @timotejkuzma5838](https://www.youtube.com/@timotejkuzma5838)
+## 📫 Contact & Socials
+
+💼 **LinkedIn:** [timotej-kuzma2015](https://www.linkedin.com/in/timotej-kuzma2015/)
+📧 **Email:** [timotej.kuzma2015@gmail.com](mailto:timotej.kuzma2015@gmail.com)
+🐙 **GitHub:** [timotej2015](https://github.com/timotej2015)
+📺 **YouTube:** [@timotejkuzma5838](https://www.youtube.com/@timotejkuzma5838)
